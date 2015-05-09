@@ -1,0 +1,7 @@
+http://access.alchemyapi.com/calls/data/GetNews?count=20&outputMode=json&start=now-1d&end=now&apikey=49a288ff26825f56707e24fd83d7f4b691fd60f8&q.enriched.url.url=nytimes
+
+
+http://access.alchemyapi.com/calls/data/GetNews?count=20&outputMode=json&start=now-1d&end=now&apikey=49a288ff26825f56707e24fd83d7f4b691fd60f8&q.enriched.url.url=nytimes&return=enriched.url.url,enriched.url.title,enriched.url.author
+
+count upto a 1000
+
